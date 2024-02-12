@@ -1,2 +1,2 @@
 # NLP_model
-ML model that distinguishes between human vs. AI generated written text
+ML bigram and trigram models that distinguish between human vs. AI generated written text with 95% accuracy.
